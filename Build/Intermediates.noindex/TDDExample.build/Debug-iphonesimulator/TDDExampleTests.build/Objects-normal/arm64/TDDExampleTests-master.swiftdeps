@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "18e94dd649b139ede8900deef856a4fc03ce16e7d835522c47b57ee9c24a9496"
+build_start_time: [1676124041, 208003997]
+build_end_time: [1676124041, 615035057]
+inputs:
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Controllers/SignupViewControllerTests.swift": [1676124040, 796952486]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Mocks/MockSignupModelValidator.swift": [1672919934, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Mocks/MockSignupViewDelegate.swift": [1673006117, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Mocks/MockSignupWebService.swift": [1673006242, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Mocks/MockURLProtocol.swift": [1672835728, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Models/SignupFormModelValidatorTests.swift": [1672835356, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Network/SignupWebServiceTests.swift": [1672835797, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExampleTests/Signup/Presenters/SignupPresenterTests.swift": [1676123903, 945299863]

@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "0d8f44707d74af3b07f25521f4aaf9e8aeea94e370bcd1f0aeb6fd94e53a54ab"
+build_start_time: [1676123766, 463265895]
+build_end_time: [1676123785, 283159017]
+inputs:
+  "/Users/ravi/Desktop/TDDExample/TDDExample/AppDelegate.swift": [1672746114, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/SceneDelegate.swift": [1672746114, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Controllers/SignupViewController.swift": [1673008255, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Models/SignupConstants.swift": [1672834403, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Models/SignupErrors.swift": [1672835511, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Models/SignupFormModel.swift": [1672918948, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Models/SignupFormModelValidator.swift": [1672921186, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Models/SignupFormRequestModel.swift": [1672832845, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Models/SignupResponseModel.swift": [1672833159, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Network/SignupWebService.swift": [1672920283, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Presenters/SignupPresenter.swift": [1673006245, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Protocols/SignupModelValidatorProtocol.swift": [1672919517, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Protocols/SignupViewDelegateProtocol.swift": [1673005216, 0]
+  "/Users/ravi/Desktop/TDDExample/TDDExample/Signup/Protocols/SignupWebServiceProtocol.swift": [1672920478, 0]

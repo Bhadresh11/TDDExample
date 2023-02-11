@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "03335613-226E-48E3-9C1B-B787C9A18377"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "816E2AFF-6647-40F3-A06B-05D563B6056C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TDDExample/SignupWebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "signup(withForm:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "816E2AFF-6647-40F3-A06B-05D563B6056C - e896f2bb495728ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDDExample.SignupWebService.signup(withForm: TDDExample.SignupFormRequestModel, completionHandler: (Swift.Optional&lt;TDDExample.SignupResponseModel&gt;, Swift.Optional&lt;TDDExample.SignupErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TDDExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosuser/Desktop/TDDExample/TDDExample/SignupWebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "816E2AFF-6647-40F3-A06B-05D563B6056C - e896f2bb495728ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDDExample.SignupWebService.signup(withForm: TDDExample.SignupFormRequestModel, completionHandler: (Swift.Optional&lt;TDDExample.SignupResponseModel&gt;, Swift.Optional&lt;TDDExample.SignupErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TDDExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosuser/Desktop/TDDExample/TDDExample/SignupWebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "816E2AFF-6647-40F3-A06B-05D563B6056C - e896f2bb495728ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TDDExample.SignupWebService.signup(withForm: TDDExample.SignupFormRequestModel, completionHandler: (Swift.Optional&lt;TDDExample.SignupResponseModel&gt;, Swift.Optional&lt;TDDExample.SignupErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TDDExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosuser/Desktop/TDDExample/TDDExample/SignupWebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

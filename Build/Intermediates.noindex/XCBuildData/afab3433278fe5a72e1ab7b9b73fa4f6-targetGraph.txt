@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+TDDExample in TDDExample, no dependencies
+TDDExampleTests in TDDExample, depends on:
+TDDExample in TDDExample (explicit)
